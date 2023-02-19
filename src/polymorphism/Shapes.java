@@ -1,2 +1,6 @@
-package polymorphism;public class Shapes {
+package polymorphism;
+
+public abstract class Shapes {
+
+    public  abstract double findArea();
 }
